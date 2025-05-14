@@ -1,0 +1,8 @@
+streamlit
+faiss-cpu
+langchain
+PyPDF2
+llama-cpp-python
+python-dotenv
+tiktoken
+SpeechRecognition
